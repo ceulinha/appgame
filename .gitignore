@@ -1,0 +1,12 @@
+node_modules
+dist
+.DS_Store
+
+# Android (Capacitor) — mantém o projeto, ignora artefatos de build
+android/build
+android/app/build
+android/.gradle
+android/local.properties
+android/captures
+android/*.iml
+android/.idea
